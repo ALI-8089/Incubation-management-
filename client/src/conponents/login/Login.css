@@ -1,0 +1,24 @@
+.form{
+    background-color: #461652;
+    width: 50rem;
+}
+.form label{
+    color: white;
+}
+.login{
+   
+
+  min-height: 100%;
+
+	
+ 
+  width: 100%;
+  height: auto;
+	
+
+  position: fixed;
+  top: 0;
+  left: 0;
+
+height: auto;
+}
